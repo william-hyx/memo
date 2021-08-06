@@ -12,3 +12,5 @@
 - [权限系统理论](https://www.yuque.com/jdtalk/bb/chdk7w)
 - [权限系统改版总结](https://www.yuque.com/jdtalk/bb/bya9bu)
 - [B端产品如何设计权限系统？4要素-5模型-2特殊-1案例-2建议](https://coffee.pmcaff.com/article/zNBrYXGPQe?newwindow=1)
+- [一种基于元模型的访问控制策略描述语言](http://www.jos.org.cn/1000-9825/5624.htm)
+- [casbin](https://casbin.org/docs/en/tutorials)
