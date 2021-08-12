@@ -1622,6 +1622,12 @@ cat ~/.ssh/id_rsa.pub
   <img src="media/ssh-key.gif">
 </details>
 
+## 设置中文乱码问题
+
+```
+git config --global core.quotepath false
+```
+
 ## 其他
 
 ```bash
