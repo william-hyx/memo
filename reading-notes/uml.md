@@ -69,3 +69,7 @@ UML用来设计软件蓝图的可视化建模语言，是一种为面向对象�
 |组合(Composition)|关联关系中的一种，也是整体和部分之间的关系，是cxmtains-a关系。整体对象可以控制部分对象的生命周期，一旦整体对象不存在，部分对象也将不存在，部分对象不能脱离整体对象而存在。|用**带实心菱形的实线**来表示，**菱形指向整体**。|![composition](img/composition.png)|
 |泛化(Generalization)|对象之间耦合度最大的一种关系，表示一般与特殊的关系，是父类与子类之间的关系，是一种继承关系，is-a关系。|用**带空心三角箭头的实线**来表示，**箭头从子类指向父类**。|![generalization](img/generalization.png)|
 |实现(Realization)|接口与实现类之间的关系，类实现了接口，类中的操作实现了接口中所声明的所有的抽象操作|用**带空心三角箭头的虚线**来表示，箭头**从实现类指向接口**。|![realization](img/realization.png)|
+
+#### UML cheatsheet
+
+![uml-cheatsheet](img/umlcheatsheet.jpg)
