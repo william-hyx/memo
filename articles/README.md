@@ -14,3 +14,6 @@
 - [B端产品如何设计权限系统？4要素-5模型-2特殊-1案例-2建议](https://coffee.pmcaff.com/article/zNBrYXGPQe?newwindow=1)
 - [一种基于元模型的访问控制策略描述语言](http://www.jos.org.cn/1000-9825/5624.htm)
 - [casbin](https://casbin.org/docs/en/tutorials)
+
+
+[业务数据脱敏解决方案探究](https://github.com/superleeyom/blog/issues/32)
