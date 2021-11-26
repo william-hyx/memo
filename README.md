@@ -15,3 +15,6 @@
 
 - [Linux内核完全注释](http://www.oldlinux.org/download/CLK-5.0.1-WithCover.pdf)
 - [Linux操作系统实现原理](http://www.oldlinux.org/Book-Lite/)
+
+### 网络资源
+- [OKR](https://www.okr.com/)
