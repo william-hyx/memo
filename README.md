@@ -1,6 +1,6 @@
 # 备忘
 
-- [Git](/git/README.md)
+- [Git](Git常用命令参考手册.md)
 
 - [开发库](/dev-library/README.md)
   

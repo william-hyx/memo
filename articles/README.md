@@ -17,3 +17,4 @@
 
 
 [业务数据脱敏解决方案探究](https://github.com/superleeyom/blog/issues/32)
+[GraphQL 后端架构的经验分享 2021-11-17](https://www.pupboss.com/post/2021/experience-sharing-of-graphql-backend/)
