@@ -13,8 +13,11 @@
 - [权限系统改版总结](https://www.yuque.com/jdtalk/bb/bya9bu)
 - [B端产品如何设计权限系统？4要素-5模型-2特殊-1案例-2建议](https://coffee.pmcaff.com/article/zNBrYXGPQe?newwindow=1)
 - [一种基于元模型的访问控制策略描述语言](http://www.jos.org.cn/1000-9825/5624.htm)
-- [casbin](https://casbin.org/docs/en/tutorials)
-
+- [casbin](https://casbin.org/zh-CN/)
+- [融合模型权限管理设计方案](https://mp.weixin.qq.com/s/zI521RaT9NO4Ng2Vro36zA)
+- [百度ToB垂类账号权限平台的设计与实践](https://mp.weixin.qq.com/s/CBw6fkDJld3rwrsMo7u-QQ)
+- [转转统一权限系统的设计与实现（设计篇）](https://mp.weixin.qq.com/s/ONMuELjdHYa0yQceTj01Iw)
+- [转转统一权限系统的设计与实现（后端实现篇）](https://mp.weixin.qq.com/s/hFTDckfxhSnoM_McP18Vkg)
 
 [业务数据脱敏解决方案探究](https://github.com/superleeyom/blog/issues/32)
 [GraphQL 后端架构的经验分享 2021-11-17](https://www.pupboss.com/post/2021/experience-sharing-of-graphql-backend/)
