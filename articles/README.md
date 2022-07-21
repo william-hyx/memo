@@ -24,3 +24,4 @@
 
 ### 其他
 [How to Write Better with The Why, What, How Framework](https://eugeneyan.com/writing/writing-docs-why-what-how/?utm_campaign=Connect%20the%20dots&utm_medium=email&utm_source=Revue%20newsletter)
+[分布式系统稳定性建设指南](./pdf/分布式系统稳定性建设指南.pdf)
